@@ -1,0 +1,97 @@
+h1{
+ color:magenta;
+}
+
+#a{
+ font-family:'sans-serif';
+ font-size: 25px;
+ font-weight: 400;
+ 
+}
+
+#div{
+  margin-bottom:50px;
+}
+
+.horz{
+
+  list-style: none;
+  padding-left: 0px;
+  text-align="center";
+  margin: 0px;
+}
+
+.horz li{
+  
+   display: inline-block;
+margin: 0px 50px 50px 0px;
+}
+
+.horz li a{
+  color: black;
+ text-decoration: none;
+ font-size: 17px;
+ font-family: serif;
+ transition: color 0.5s, border-bottom 4s;
+ 
+ 
+}
+
+.horz li a:hover{
+  color: green;
+ border-bottom: 1px solid black;
+ 
+}
+
+.textcenter{
+  text-align: center;
+}
+
+#my-name{
+
+ font-size:40px;
+ color: lightblue:
+ font-family:sans-serif;
+ transition: color 0.5s, size 4s, 2s ease-in-out;
+}
+
+#my-name:hover{
+ color:blue;
+ font-weight:700px;
+ font-size: 70px;
+}
+
+#name-header{
+ color:#15d87e;
+ font-weight:700px;
+ font-family: fantasy;
+}
+
+
+
+
+
+
+h3{
+ color:#f27e06;
+ font-size: 30px;
+ transition: color 0.5s, bottom-border 3.5s;
+ 
+}
+
+h3:hover{
+ color:black;
+ bottom-border: 2px solid black;
+
+}
+
+p{
+font-family:times-new-roman;
+font-size: 20px;
+text-align=justify;
+
+}
+
+h4{
+ font-size: 20px;
+}
